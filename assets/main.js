@@ -46,4 +46,8 @@ async function fetchData(urlApi){
 })();
 
 
-//comenzando con la revision de proyecto. 30-enero-2025.
+//async y await.
+//async devuelve una promesa.
+//await espera a que la promesa se ejecute y responda y devuelve resultado. - await suspende la ejecucion de la funcion hasta que se establezca la promesa.
+
+//.then es una cadena de manejadores de errores. 
