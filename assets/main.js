@@ -51,3 +51,11 @@ async function fetchData(urlApi){
 //await espera a que la promesa se ejecute y responda y devuelve resultado. - await suspende la ejecucion de la funcion hasta que se establezca la promesa.
 
 //.then es una cadena de manejadores de errores. 
+//dentro de then es posible alojar mas promesas.
+
+
+//fetch: crea ordenes. carga nueva informacion. recibe actualizaciones. sin recargar la pagina. 
+
+//necesitamos saber mas de js. 
+
+//hay que revisar el videojuego ahora.
