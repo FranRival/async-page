@@ -44,3 +44,6 @@ async function fetchData(urlApi){
         console.log(error);
     }
 })();
+
+
+//comenzando con la revision de proyecto. 30-enero-2025.
